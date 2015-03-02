@@ -1,0 +1,137 @@
+[
+    {
+        "permission": [
+            {
+                "education":[
+                    {
+                        "none": 14.6,
+                        "primary": 12.2,
+                        "secondary": 6.9,
+                        "higher education": 1.4
+                    }
+                ],
+                
+                "wealth":[
+                    {
+                        "lowest": 13.9,
+                        "second":  14.9,
+                        "middle":  12.1,
+                        "fourth":  10.2,
+                        "highest":  6.7
+                        
+                    }
+                ],
+                
+                "residence":[
+                    {
+                        "urban": 4.9,
+                        "rural": 12.8
+                    }
+                ]
+                
+                
+            }
+        ],
+        
+        "transport":[
+            {
+                "education":[
+                    {
+                        "none": 63.2,
+                        "primary": 56.4,
+                        "secondary": 39.6,
+                        "higher education": 14.2
+                    }
+                ],
+                
+                "wealth":[
+                    {
+                        "lowest": 65.5,
+                        "second":  62.4,
+                        "middle":  59.1,
+                        "fourth":  53.5,
+                        "highest":  32.9
+                        
+                    }
+                ],
+                
+                "residence":[
+                    {
+                        "urban": 33.2,
+                        "rural": 58.4
+                    }
+                ]
+                
+                
+            }
+        ],
+        
+        "price of treatment":[
+            {
+                "education":[
+                    {
+                        "none": 63.3,
+                        "primary": 53.7,
+                        "secondary": 38.3,
+                        "higher education": 13.2
+                    }
+                ],
+                
+                "wealth":[
+                    {
+                        "lowest": 65.2,
+                        "second":  59.8,
+                        "middle":  54.7,
+                        "fourth":  51.3,
+                        "highest":  32
+                        
+                    }
+                ],
+                
+                "residence":[
+                    {
+                        "urban": 35.2,
+                        "rural": 55.4
+                    }
+                ]
+                
+                
+            }
+        ],
+        
+        "no provider":[
+            {
+                "education":[
+                    {
+                        "none": 51.3,
+                        "primary": 49.3,
+                        "secondary": 39.7,
+                        "higher education": 22
+                    }
+                ],
+                
+                "wealth":[
+                    {
+                        "lowest": 54.8,
+                        "second":  51.5,
+                        "middle":  51.3,
+                        "fourth":  47.2,
+                        "highest":  34.9
+                        
+                    }
+                ],
+                
+                "residence":[
+                    {
+                        "urban": 26.9,
+                        "rural": 52
+                    }
+                ]
+                
+                
+            }
+        ]
+            
+        
+    }
+]
