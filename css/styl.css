@@ -11,7 +11,17 @@ body{
 
 .navbar-nav{
   position: relative;
-  text-align: left;
+  text-align: center;
+}
+
+.navbar-default{
+   background-color: white;
+   border-color: white;
+}
+
+.navbar-default .navbar-nav>li>a{
+   color: #111519;
+   background-color: #b8c5cc;
 }
 
 h1, h2{
@@ -19,7 +29,7 @@ h1, h2{
 }
 
 p{
-    font-family: font-family: 'Droid Serif', serif;
+    font-family: 'Droid Serif', serif;
 }
 
 .col-md-2{
@@ -27,18 +37,22 @@ p{
    margin-bottom: 0px;
 }
 
+.progress{
+   background-color: white;
+   border-radius: 0px;
+   box-shadow: none;
+}
+
 #permission{
    margin-top: 10px;
    margin-bottom: 10px;
    padding: 10px;
-   background-color: #b7b7b7;
 }
 
 #transport{
    margin-top: 10px;
    margin-bottom: 10px;
    padding: 10px;
-   background-color: #b7b7b7;
    
 }
 
@@ -46,14 +60,16 @@ p{
    margin-top: 10px;
    margin-bottom: 10px;
    padding: 10px;
-   background-color: #b7b7b7;
 }
 
 #provider{
    margin-top: 10px;
    margin-bottom: 10px;
    padding: 10px;
-   background-color: #b7b7b7;
+}
+
+#higherEducation{
+   border-bottom: solid;
 }
 
 span {
@@ -63,14 +79,7 @@ span {
     float: right;
     right: 10px;
     color: black;
+    font-family: 'Droid Serif', serif;
 }
 
 
-
-
-#progress {
-    -webkit-animation: progress 2s 1 forwards;
-    -moz-animation: progress 2s 1 forwards;
-    -ms-animation: progress 2s 1 forwards;
-    animation: progress 2s 1 forwards;
-}
